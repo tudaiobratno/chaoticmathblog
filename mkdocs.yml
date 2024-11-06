@@ -1,0 +1,9 @@
+site_name: Tudaiobrato's chaotic blog
+site_url: https://taudaiobratno.github.io/chaoticmathblog/
+theme:
+    name: material 
+site_author: Svetlana Orlova
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
